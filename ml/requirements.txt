@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+xgboost
+optuna
+matplotlib
+joblib
+mlflow
+pytest

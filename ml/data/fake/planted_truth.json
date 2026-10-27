@@ -1,0 +1,20 @@
+{
+  "dataset_version": "v0.0",
+  "seed": 0,
+  "base_accuracy": 0.85,
+  "coef_above_range": -0.04,
+  "coef_below_range": -0.02,
+  "leap_free_semitones": 4,
+  "coef_leap_up": -0.015,
+  "nps_free": 3.0,
+  "coef_nps": -0.05,
+  "accuracy_noise_sd": 0.05,
+  "skill_offset": {
+    "s1": -0.046,
+    "s2": -0.0967,
+    "s3": 0.0826,
+    "s4": 0.0459,
+    "s5": 0.087,
+    "s6": -0.0995
+  }
+}
